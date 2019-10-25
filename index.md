@@ -11,9 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 个人简历
+
+## 星期五的中午
+
+ 手机：**********
+ EMAIL：******@gmail.com
+## 个人信息
 
 - Bulleted
 - List
